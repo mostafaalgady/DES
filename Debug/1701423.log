@@ -1,0 +1,6 @@
+﻿  1701423.cpp
+C:\Users\lenovo\Desktop\1701423\1701423.cpp(132,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\lenovo\Desktop\1701423\1701423.cpp(141,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\lenovo\Desktop\1701423\1701423.cpp(256,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\lenovo\Desktop\1701423\1701423.cpp(288,20): warning C4018:  '<': signed/unsigned mismatch
+  1701423.vcxproj -> C:\Users\lenovo\Desktop\1701423\Debug\1701423.exe
